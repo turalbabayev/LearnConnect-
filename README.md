@@ -76,4 +76,21 @@ cd LearnConnect
 
 1. **Authentication** sekmesinden "Email/Password" seçeneğini etkinleştirin.
 
+## 4. Bağımlılıkları Yükleyin
+
+### CocoaPods
+
+```bash
+pod install
+```
+
+### Swift Package Manager (SPM)
+
+1. Xcode üzerinden:
+   - `File > Swift Packages > Add Package Dependency` menüsüne gidin.
+2. Aşağıdaki kütüphaneleri ekleyin:
+   - [RxSwift](https://github.com/ReactiveX/RxSwift): https://github.com/ReactiveX/RxSwift
+   - [Firebase](https://github.com/firebase/firebase-ios-sdk): https://github.com/firebase/firebase-ios-sdk
+
+
 
