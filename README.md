@@ -117,4 +117,13 @@ Kategoriler arasında herhangi bir tekrar olmadığından emin olmak için birim
 `Command + U`
 
 ## 🌟 Uygulama Görselleri
+## 🌟 Uygulama Görselleri
 
+<div style="display: flex; justify-content: space-between;">
+
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/SplashScreen.png" alt="Ana Sayfa" width="22%" />
+<img src="screenshots/course_detail.png" alt="Kurs Detay" width="22%" />
+<img src="screenshots/video_player.png" alt="Video Oynatıcı" width="22%" />
+<img src="screenshots/demo_thumbnail.png" alt="Demo Thumbnail" width="22%" />
+
+</div>
