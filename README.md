@@ -46,3 +46,15 @@
 - **Firebase SDK:** Kullanıcı kimlik doğrulama ve veri yönetimi.
   
 ---
+
+## 📦 Kurulum Adımları
+
+### 1. Gereksinimler
+- **Xcode 14+**
+- **Swift 5.0+**
+- **CocoaPods** veya **Swift Package Manager**
+
+### 2. Projeyi Klonlayın
+```bash
+git clone https://github.com/turalbabayev/LearnConnect.git
+cd LearnConnect
