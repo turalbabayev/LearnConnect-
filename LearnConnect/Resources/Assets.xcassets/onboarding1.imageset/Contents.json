@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Illustration - social media, startup, communication _ laptop, computer, man, work, publish, followers@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Illustration - social media, startup, communication _ laptop, computer, man, work, publish, followers@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Illustration - social media, startup, communication _ laptop, computer, man, work, publish, followers@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

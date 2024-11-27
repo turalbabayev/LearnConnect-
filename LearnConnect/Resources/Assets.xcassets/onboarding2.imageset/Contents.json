@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Illustration - Shopping, e-commerce, sale _ store, shop, smartphone, discount, happy, savings, gift@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Illustration - Shopping, e-commerce, sale _ store, shop, smartphone, discount, happy, savings, gift@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Illustration - Shopping, e-commerce, sale _ store, shop, smartphone, discount, happy, savings, gift@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
