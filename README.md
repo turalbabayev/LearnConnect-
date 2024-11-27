@@ -117,13 +117,21 @@ Kategoriler arasında herhangi bir tekrar olmadığından emin olmak için birim
 `Command + U`
 
 ## 🌟 Uygulama Görselleri
-## 🌟 Uygulama Görselleri
+## 🌟 Light Mode
 
 <div style="display: flex; justify-content: space-between;">
 
-<img src="https://endorfinmed.com/wp-content/uploads/2024/11/SplashScreen.png" alt="Ana Sayfa" width="22%" />
-<img src="screenshots/course_detail.png" alt="Kurs Detay" width="22%" />
-<img src="screenshots/video_player.png" alt="Video Oynatıcı" width="22%" />
-<img src="screenshots/demo_thumbnail.png" alt="Demo Thumbnail" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/SplashScreen.png" alt="Splash Screen" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/onboarding1.png" alt="Onboarding1" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/onboarding2.png" alt="Onboarding2" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/onboarding3.png" alt="Onboarding3" width="22%" />
+
+</div>
+<div style="display: flex; justify-content: space-between;">
+
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/login.png" alt="Login Page" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/register.png" alt="Register Page" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/resetpass.png" alt="Reset Password" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/successRegister.png" alt="Success Register" width="22%" />
 
 </div>
