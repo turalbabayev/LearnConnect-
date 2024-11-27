@@ -169,3 +169,13 @@ Kategoriler arasında herhangi bir tekrar olmadığından emin olmak için birim
 <img src="https://endorfinmed.com/wp-content/uploads/2024/11/notificationdark.png" alt="Notification Dark" width="22%" />
 </div>
 
+## 🤝 Katkıda Bulunma
+Bu projeye katkıda bulunmak için bir **pull request** oluşturabilir veya bir **issue** açabilirsiniz.
+
+---
+
+## 📧 İletişim
+**Geliştirici:** Tural Babayev  
+**E-posta:** [turalbabayev@turalbabayev.com.tr](mailto:turalbabayev@turalbabayev.com.tr)  
+**GitHub:** [Tural Babayev](https://github.com/turalbabayev)  
+**Linkedin:** [Tural Babayev](https://github.com/turalbabayev](https://www.linkedin.com/in/turalbabayev/))  
