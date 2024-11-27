@@ -58,3 +58,22 @@
 ```bash
 git clone https://github.com/turalbabayev/LearnConnect.git
 cd LearnConnect
+```
+
+## 3. Firebase Kurulumu
+
+### Firebase Console'da Proje Oluşturma
+
+1. [Firebase Console](https://console.firebase.google.com/) üzerinden yeni bir proje oluşturun.
+2. iOS uygulaması ekleyin ve gerekli bilgileri doldurun (Bundle ID vb.).
+3. `GoogleService-Info.plist` dosyasını indirin.
+
+> **Not:** Bu dosya gizli olduğu için repository'ye eklenmemiştir. Lütfen kendi Firebase projenizden bu dosyayı indirin ve proje dizinine manuel olarak ekleyin.
+
+---
+
+### Firebase Servislerini Aktif Etme
+
+1. **Authentication** sekmesinden "Email/Password" seçeneğini etkinleştirin.
+
+
