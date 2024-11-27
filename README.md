@@ -92,5 +92,28 @@ pod install
    - [RxSwift](https://github.com/ReactiveX/RxSwift): https://github.com/ReactiveX/RxSwift
    - [Firebase](https://github.com/firebase/firebase-ios-sdk): https://github.com/firebase/firebase-ios-sdk
 
+## 5. Projeyi Çalıştırın
+
+1. `LearnConnect.xcworkspace` dosyasını Xcode'da açın.
+2. Gerçek cihaz veya simülatörde projeyi başlatın.
+
+## 🧪 Unit Testler
+
+### 1. Arama Fonksiyonu Testi
+Arama fonksiyonu, farklı senaryolar altında test edilmiştir:
+- Boş giriş testi.
+- Var olmayan bir kelime testi.
+- Mevcut bir kurs testi.
+
+---
+
+### 2. Benzersiz Kategorileri Listeleme Testi
+Kategoriler arasında herhangi bir tekrar olmadığından emin olmak için birim testler gerçekleştirilmiştir.
+
+---
+
+### Testleri Çalıştırmak İçin:
+`Command + U`
+
 
 
