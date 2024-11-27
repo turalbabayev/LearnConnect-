@@ -223,7 +223,7 @@
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vzk-iX-8va">
                                 <rect key="frame" x="20" y="212.33333333333334" width="353" height="43"/>
-                                <string key="text">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over</string>
+                                <string key="text">LearnConnect platformuna erişebilmek ve çeşitli öğrenme özelliklerinden yararlanabilmek için öncelikle giriş yapmanız gerekmektedir.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
