@@ -116,5 +116,5 @@ Kategoriler arasında herhangi bir tekrar olmadığından emin olmak için birim
 ### Testleri Çalıştırmak İçin:
 `Command + U`
 
-
+## 🌟 Uygulama Görselleri
 
