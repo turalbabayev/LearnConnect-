@@ -135,3 +135,11 @@ Kategoriler arasında herhangi bir tekrar olmadığından emin olmak için birim
 <img src="https://endorfinmed.com/wp-content/uploads/2024/11/successRegister.png" alt="Success Register" width="22%" />
 
 </div>
+<div style="display: flex; justify-content: space-between;">
+
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/home.png" alt="Home Page" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/courseDetail.png" alt="Course Page" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/courseRegister.png" alt="Course Register" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/videoplayer.png" alt="Course Play" width="22%" />
+
+</div>
