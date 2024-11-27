@@ -117,7 +117,7 @@ Kategoriler arasında herhangi bir tekrar olmadığından emin olmak için birim
 `Command + U`
 
 ## 🌟 Uygulama Görselleri
-## 🌟 Light Mode
+### 🌟 Light Mode
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -140,6 +140,32 @@ Kategoriler arasında herhangi bir tekrar olmadığından emin olmak için birim
 <img src="https://endorfinmed.com/wp-content/uploads/2024/11/home.png" alt="Home Page" width="22%" />
 <img src="https://endorfinmed.com/wp-content/uploads/2024/11/courseDetail.png" alt="Course Page" width="22%" />
 <img src="https://endorfinmed.com/wp-content/uploads/2024/11/courseRegister.png" alt="Course Register" width="22%" />
-<img src="https://endorfinmed.com/wp-content/uploads/2024/11/videoplayer.png" alt="Course Play" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/videoplayer-1.png" alt="Course Play" width="22%" />
 
 </div>
+<div style="display: flex; justify-content: space-between;">
+
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/profile.png" alt="Profile Page" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/editProfile.png" alt="Edit Profile" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/profilefull.png" alt="Course Register" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/courseFavTogle.png" alt="Favorite Toggle" width="22%" />
+
+</div>
+<div style="display: flex; justify-content: space-between;">
+
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/mycourse.png" alt="My Courses" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/myfav.png" alt="My Fav" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/notification.png" alt="Notification Page" width="22%" />
+
+</div>
+
+### 🌟 Dark Mode
+<div style="display: flex; justify-content: space-between;">
+
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/homedark.png" alt="Home Page Dark" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/mycoursesdark.png" alt="My Courses Dark" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/myfavdark.png" alt="My Fav Dark" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/myprofiledark.png" alt="My Profile Dark" width="22%" />
+<img src="https://endorfinmed.com/wp-content/uploads/2024/11/notificationdark.png" alt="Notification Dark" width="22%" />
+</div>
+
