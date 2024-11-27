@@ -1,9 +1,22 @@
 # LearnConnect - Modern Video Tabanlı Eğitim Platformu
 
-**LearnConnect**, kullanıcıların kurslara kaydolabileceği, videoları izleyebileceği ve çevrimdışı olarak da içeriklere erişim sağlayabileceği modern bir eğitim platformudur. Bu proje, kullanıcı dostu bir deneyim ve performansı ön planda tutarak geliştirilmiştir.
+**LearnConnect**, kullanıcıların kurslara kaydolabileceği, videoları izleyebileceği ve çevrimdışı olarak da içeriklere erişim sağlayabileceği modern bir eğitim platformudur.
 
 ---
 
+## 🎯 İçindekiler
+- [📱 Uygulama Özellikleri](#-uygulama-özellikleri)
+- [🛠️ Kullanılan Teknolojiler ve Mimari](#️-kullanılan-teknolojiler-ve-mimari)
+- [📦 Kurulum Adımları](#-kurulum-adımları)
+- [🧪 Unit Testler](#-unit-testler)
+- [🎁 Bonus Özellikler](#-bonus-özellikler)
+- [🌟 Uygulama Görselleri](#-uygulama-görselleri)
+- [🎥 Demo Video](#-demo-video)
+- [📜 Yol Haritası](#-yol-haritası)
+- [🤝 Katkıda Bulunma](#-katkıda-bulunma)
+- [📧 İletişim](#-iletişim)
+
+---
 ## 📱 Uygulama Özellikleri
 
 ### Kullanıcı İşlemleri
