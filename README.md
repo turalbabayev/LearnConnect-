@@ -169,6 +169,11 @@ Kategoriler arasında herhangi bir tekrar olmadığından emin olmak için birim
 <img src="https://endorfinmed.com/wp-content/uploads/2024/11/notificationdark.png" alt="Notification Dark" width="22%" />
 </div>
 
+## 🎥 Demo Video
+
+[Demo Videosunu İzle](https://endorfinmed.com/wp-content/uploads/2024/11/learnconnectvideo.mp4)
+
+
 ## 🤝 Katkıda Bulunma
 Bu projeye katkıda bulunmak için bir **pull request** oluşturabilir veya bir **issue** açabilirsiniz.
 
