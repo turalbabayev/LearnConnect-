@@ -47,6 +47,17 @@
   - 📤 Uygulama içi local olarak bildirimler gönderilir (örneğin: kurs kaydı). 
   - 🗂️ Bildirimler daha sonra **Bildirimler Sayfası** üzerinden görüntülenebilir.
 
+## 🛠️ Kullanılan Teknolojiler ve Mimari
+### Teknolojiler:
+ - Dil: Swift UIKit
+ - Mimari: MVVM
+- Veritabanı: SQLite
+- Video Oynatıcı: AVPlayer
+- Unit Test: XCTest
+
+### Kullanılan Kütüphaneler:
+- Firebase: Kullanıcı Login ve Register işlemleri için.
+- RxSwift: Reaktif Programlama
 
 ## 📦 Kurulum Adımları
 
