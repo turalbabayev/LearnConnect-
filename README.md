@@ -68,7 +68,7 @@
 
 ### 2. Projeyi Klonlayın
 ```bash
-git clone https://github.com/turalbabayev/LearnConnect.git
+git clone https://github.com/turalbabayev/LearnConnect-.git
 cd LearnConnect
 ```
 
