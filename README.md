@@ -17,7 +17,7 @@
 ## 📱 Kullanıcı İşlemleri
 - ✉️ **Kullanıcı Kayıt ve Giriş:** Kullanıcılar e-posta ve şifre ile kayıt olabilir ve giriş yapabilir.
 - 🔑 **Kullanıcı Şifre Sıfırlama:** Kullanıcılar e-posta ile şifre sıfırlama bağlantısı gönderebilir.
-- 👤 **Profil Görüntüleme ve Güncelleme:** Kullanıcılar profil bilgilerini görüntüleyebilir ve düzenleyebilir
+- 👤 **Profil Görüntüleme ve Güncelleme:** Kullanıcılar profil bilgilerini görüntüleyebilir ve düzenleyebilir.
 
 ---
 
